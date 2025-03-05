@@ -1,0 +1,83 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Programming Questions
+_All programs should take user input._
+
+1. Write a program to input the length and breadth of a rectangle. Calculate and display the area, perimeter, or diagonal of the rectangle as per the user's choice.  
+2. Write a program to enter three angles of a triangle and check whether a triangle is possible or not. If possible, then display whether it is an **Acute-Angled Triangle, Right-Angled Triangle, or an Obtuse-Angled Triangle**. Otherwise, display "Triangle is not possible".  
+3. Write a program to enter the side and find the area of a square.  
+4. Write a program to find the surface area of a sphere.  
+5. Write a program to find the volume of a cube.  
+6. Write a program to input three numbers (positive or negative). If they are unequal, display the greatest number. Otherwise, display that they are equal. The program should also display whether the numbers entered are "All positive", "All negative", or "A combination of both".  
+7. Write a program to accept a number and check whether it is a prime number or not.  
+8. Write a program to accept two numbers and find their Greatest Common Divisor (GCD) / Highest Common Factor (HCF).  
+   - Sample Input: 25, 45  
+   - Sample Output: The Greatest Divisor: 5  
+9. Write a program to accept a number and check whether it is a Perfect Number.  
+   - Sample Input: 6  
+   - Sample Output: It is a perfect number.  
+   - Explanation: The factors of 6 are 1, 2, and 3. Since 1 + 2 + 3 = 6, it is a perfect number.  
+10. Write a program to accept 10 different numbers and display the greatest and smallest numbers from the set.  
+11. Write a program to calculate the sum of all positive even numbers and the sum of all negative odd numbers from a set of numbers. The program should terminate when the user enters `0`.  
+12. Write a program to simulate a coin toss game, counting the number of times 'Head' and 'Tail' appear. Assume '1' represents Head and '0' represents Tail. Perform the experiment 20 times.  
+13. Write a program to display the first 10 numbers of the series 0, 1, 2, 3, ….  
+14. Write a program to compute the sum of the series:  
+   S = \frac{a}{2} + \frac{a}{3} + \frac{a}{4} + \dots + \frac{a}{n} 
+   where a and n are entered by the user.  
+15. Write a program to calculate and display the first 50 prime numbers starting from a user-given number.  
+16. Using a `switch` statement, write a menu-driven program:  
+   - To check whether a number is Composite. (A composite number has more than 2 factors, e.g., 4, 6, 8, 9).  
+   - To find the smallest digit in an input number.  
+   - If an incorrect option is chosen, display an error message.  
+17. Write a program to check if a number is a Neon Number.  
+   - **Definition: A number is Neon if the sum of the digits of its square equals the number itself.  
+   - Example:  
+     - Input: `9`  
+     - Output: `9 × 9 = 81`, and `8 + 1 = 9`.  
+     - `9` is a Neon Number.  
+18. Write a program to check if a number is a Palindrome.  
+19. Write a program to check if a number is an Armstrong Number.  
+   - Example: `153` is an Armstrong number because \(1^3 + 5^3 + 3^3 = 153\).  
+20. Write a program to find the sum of the series:  
+   S = 1 + \frac{a^2}{1!} + \frac{a^3}{2!} + \frac{a^4}{3!} + \dots + \frac{a^n}{(n-1)!}
+   where a and n are taken as user inputs.  
+21. Write a program to check whether two numbers are Co-prime (i.e., their GCD = 1).  
+22. Write a program to find the factors of a number (including `1` and the number itself).  
+23. Write a program to compute the sum of the digits of a number.  
+24. Write a program to compute:  
+   - Sum of negative numbers*
+   - Sum of positive odd numbers 
+   - Sum of positive even numbers 
+   - Stop input when the user enters `0`.  
+25. Write a program to remove all zeros from a number.  
+26. Write a program to count the frequency of each digit in a number.  
+27. Write a program to check whether a number is part of the Fibonacci series.  
+28. Write a program to check if a number is a Twisted Prime (A prime number that remains prime when its digits are reversed).  
+29. Write a program to check if a number is Unique (i.e., it does not contain repeated digits).  
+30. Write a program to compute the Least Common Multiple (LCM) of two numbers.  
+31. Write a program to check if two numbers are Twin Primes(i.e., two consecutive primes whose difference is `2`, e.g., `(5,7)`, `(11,13)`).  
+32. Write a program to check whether a number is a Duck Number (A number containing `0` but not starting with `0`).  
+33. Write a program to check if a number is Automorphic (A number whose square ends with the number itself).  
+34. Write a program to compute the sum of the series:  
+   S = \frac{1+2}{1*2} + \frac{1+2+3}{1*2*3} + ... + \frac{1+2+3+...+n}{1*2*...*n} 
+35. Write a program to compute the sum of the series:  
+   9+99+8+89+7+79+6+...
+36. Write a program to compute the sum of the series:  
+   2-4+6-8+...  
+37. Write a program to compute the sum of factorials:  
+   S = 1! + 2! + 3! + 4! + ... + n!  
+38. Write a program to compute the sum of the series:  
+   S = frac{1}{2} + frac{2}{3} + frac{3}{4} + frac{4}{5} + ...n]  
+39. Given `M` (100 ≤ M ≤ 10000) and `N` (< 100), find the smallest number greater than `M` whose digits sum to `N`.  
+40. Find the **nearest Twin Prime** to a given number.  
+41. Write a program to print all combinations of numbers from `1` to a user-input number (2-5).  
+42. Write a program to convert numbers between bases:  
+   - Binary to Octal  
+   - Octal to Decimal  
+   - Decimal to Octal  
+   - Hexadecimal to Decimal  
+   - Decimal to Hexadecimal  
+   - Decimal to Binary  
+43. Write a program to check if a given year is a Leap Year or not.  
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
