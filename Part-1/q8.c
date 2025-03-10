@@ -7,14 +7,13 @@ int main()
     printf("Enter two numbers: ");
     scanf("%d %d", &num1, &num2);
 
-    for (i = (num1 < num2 ? num1 : num2); i > 0; i--)
+    while (num1 % num2 != 0)
     {
-        if (num1 % i == 0 && num2 % i == 0)
-        {
-            gcd = i;
-            break;
-        }
+        gcd = num1 % num2;
+        num1 = num2;
+        num2 = gcd;
     }
+    gcd = num2;
 
     printf("The Greatest Divisor: %d\n", gcd);
 
