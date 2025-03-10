@@ -18,6 +18,7 @@ int main()
         if (n1 % 2 == 0 && n2 % 2 == 0)
         {
             printf("This is not a Prime Number");
+            break;
         }
     }
 
