@@ -70,8 +70,7 @@ _All programs should take user input._
    S = frac{1}{2} + frac{2}{3} + frac{3}{4} + frac{4}{5} + ...n]  
 39. Given `M` (100 ≤ M ≤ 10000) and `N` (< 100), find the smallest number greater than `M` whose digits sum to `N`.  
 40. Find the **nearest Twin Prime** to a given number.  
-41. Write a program to print all combinations of numbers from `1` to a user-input number (2-5).  
-42. Write a program to convert numbers between bases:  
+41. Write a program to convert numbers between bases:  
    - Binary to Octal 
    - Octal to Binary 
    - Octal to Decimal  
@@ -80,6 +79,7 @@ _All programs should take user input._
    - Decimal to Hexadecimal  
    - Decimal to Binary
    - Binary to Decimal. 
+42. Write a program to print all combinations of numbers from `1` to a user-input number (2-5).  
 43. Write a program to check if a given year is a Leap Year or not.  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
