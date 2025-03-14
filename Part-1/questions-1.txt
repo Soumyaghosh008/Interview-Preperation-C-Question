@@ -72,12 +72,14 @@ _All programs should take user input._
 40. Find the **nearest Twin Prime** to a given number.  
 41. Write a program to print all combinations of numbers from `1` to a user-input number (2-5).  
 42. Write a program to convert numbers between bases:  
-   - Binary to Octal  
+   - Binary to Octal 
+   - Octal to Binary 
    - Octal to Decimal  
-   - Decimal to Octal  
+   - Decimal to Octal
    - Hexadecimal to Decimal  
    - Decimal to Hexadecimal  
-   - Decimal to Binary  
+   - Decimal to Binary
+   - Binary to Decimal. 
 43. Write a program to check if a given year is a Leap Year or not.  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
